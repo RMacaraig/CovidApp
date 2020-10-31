@@ -31,31 +31,16 @@ https://youtu.be/7XPYrO_qoO4
 | ------------- | ------------- |
 | Provides a list of places where users should not go | Create a list of places that new/recent covid cases. This will help users to stay safe. The ability to create a low/high risk place will benefit users  |
 
-| Content Cell  | Content Cell  |
+| Notify family/loved ones that user has been contacted with someone who has covid  | Create a notification and alert for users to see the important message. The users is also able to contact their loved ones through the app immediately  |
 
 
-| Content Cell  | Content Cell  |
+| Users who may suffer from symptoms and do not have the time to go grocery shopping or require other help  | Create a help section where users are able to donate useful supplies or canned goods to individuals who need the most help   |
 
 
-| Content Cell  | Content Cell  |
+| User may need help urgently and the app may not load fast enough | Have an emergency call button for users to call 911 or emergency contacts right away  |
 
 
-| Content Cell  | Content Cell  |
-
-
-| Content Cell  | Content Cell  |
-
-
-| Content Cell  | Content Cell  |
-
-| Content Cell  | Content Cell  |
-
-
-| Content Cell  | Content Cell  |
-
-
-| Content Cell  | Content Cell  |
-
+| User may not understand the app functionality/how to talk and offer help to others  | Create a tutorial for users to understand how the app is supposed to work. This will avoid miscommunication and guide users to the right track  |
 
 
 # Links
