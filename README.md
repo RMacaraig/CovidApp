@@ -26,7 +26,8 @@ This application is used to keep everyone protected from COVID-19. To any indivi
 CovidStahp.png
 
 ![GitHub Logo](/images/CovidStahp.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://github.com/RMacaraig/CovidApp/blob/main/CovidStahp.png)
+
 
 
 # Demo Video
