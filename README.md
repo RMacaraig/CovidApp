@@ -21,7 +21,7 @@ This application is used to keep everyone protected from COVID-19. To any indivi
 * Request/offer help to others in your community 
 
 # Prototype
-Format: ![Alt Text](https://github.com/RMacaraig/CovidApp/blob/main/CovidStahp.png)
+![Alt Text](https://github.com/RMacaraig/CovidApp/blob/main/CovidStahp.png)
 
 # Demo Video
 https://youtu.be/7XPYrO_qoO4
