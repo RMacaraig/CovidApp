@@ -9,16 +9,16 @@ This application is used to keep everyone protected from COVID-19. To any indivi
 * Login
 * Current COVID-19 statistics
 * Terms of Service
--Donations 
--Live online chat
--COVID-19 alerts near you
--Find hospitals and doctors near you 
--Create posts, comments, and share with friends
--COVID-19 prevention guides/symptoms 
--COVID-19 tips on safety
--Reporting Issues
--Terms of Service 
--Request/offer help to others in your community 
+* Donations 
+* Live online chat
+* COVID-19 alerts near you
+* Find hospitals and doctors near you 
+* Create posts, comments, and share with friends
+* COVID-19 prevention guides/symptoms 
+* COVID-19 tips on safety
+* Reporting Issues
+* Terms of Service 
+* Request/offer help to others in your community 
 
 # Prototype
 
