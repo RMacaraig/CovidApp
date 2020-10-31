@@ -6,9 +6,9 @@ This application is used to keep everyone protected from COVID-19. To any indivi
 
 # Features
 * Sign Up
--Login
--Current COVID-19 statistics
--Terms of Service
+* Login
+* Current COVID-19 statistics
+* Terms of Service
 -Donations 
 -Live online chat
 -COVID-19 alerts near you
